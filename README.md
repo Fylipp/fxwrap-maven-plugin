@@ -1,5 +1,7 @@
 # FXWrap
 
+![Travis CI](https://travis-ci.org/Fylipp/fxwrap-maven-plugin.svg?branch=master)
+
 A Maven plugin to generate boilerplate loading code for FXML resources.
 
 ## Example
