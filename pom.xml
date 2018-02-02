@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.pploder.fxwrap</groupId>
+    <groupId>com.github.Fylipp</groupId>
     <artifactId>fxwrap-maven-plugin</artifactId>
-    <version>1.0.0</version>
+    <version>v1.0.1</version>
     <packaging>maven-plugin</packaging>
 
     <name>FXWrap</name>
