@@ -29,7 +29,7 @@ To add the plugin you must add it to your POM along with a helper plugin and the
 <plugin>
      <groupId>com.github.Fylipp</groupId>
      <artifactId>fxwrap-maven-plugin</artifactId>
-     <version>v1.0.0</version>
+     <version>v1.0.1</version>
  </plugin>
  
  <plugin>
